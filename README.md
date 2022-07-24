@@ -13,4 +13,4 @@
 
 ##
 
-<p> <img align="left" src="https://komarev.com/ghpvc/?username=StarterX4&label=Profile%20views&color=5865F2&style=flat" alt="StarterX4" /><p/>
+<p> <img align="left" src="https://komarev.com/ghpvc/?username=StarterX4&label=Profile%20views&color=5865F2&style=flat-square" alt="StarterX4" /><p/>
