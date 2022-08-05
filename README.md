@@ -13,4 +13,13 @@
 
 ##
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img width=30 src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <b>StarterX4#0254</b>
+</p>
+
+##
+
 <p> <img align="left" src="https://komarev.com/ghpvc/?username=StarterX4&label=Profile%20views&color=5865F2&style=flat-square" alt="StarterX4" /><p/>
