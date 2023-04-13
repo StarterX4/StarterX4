@@ -6,8 +6,8 @@
 ##
 
 <div>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=StarterX4&count_private=true&include_all_commits=true&theme=onedark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarterX4&layout=compact&langs_count=10&theme=onedark" />
+  <img height="170" src="https://gh-readme-stats-starterx4.vercel.app//api?username=StarterX4&count_private=true&include_all_commits=true&theme=onedark" />
+  <img height="170" src="https://gh-readme-stats-starterx4.vercel.app//api/top-langs/?username=StarterX4&layout=compact&langs_count=10&theme=onedark" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=StarterX4&theme=onedark" />
 </div>
 
