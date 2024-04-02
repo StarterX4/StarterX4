@@ -17,7 +17,7 @@
   <a href="https://skillicons.dev">
     <img width=30 src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <b>StarterX4#0254</b>
+  <b>StarterX4</b>
 </p>
 
 ##
