@@ -1,6 +1,6 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=1200 align="center" src="https://github-profile-trophy.vercel.app/?username=StarterX4&column=8&theme=discord&no-frame=true"/>
+  <img width=1200 align="center" src="https://trophygh.kolioaris.xyz/?username=StarterX4&column=8&theme=discord&no-frame=true"/>
 </a>
 
 ##
